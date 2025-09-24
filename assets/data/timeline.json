@@ -1,0 +1,12 @@
+[
+  {"side":"left","badge":"mar/2019","title":"Origem: DEV-R-A-D","subtitle":"Fundação","tags":["ENG","UX","DATA"],"text":"Roni (engenharia e qualidade), Amanda (produto e UX) e David (dados e integrações) fundam a DEVRAD. Primeiros contratos: sites e APIs. Aprendizado acelerado e proximidade com o cliente."},
+  {"side":"right","badge":"jul/2020","title":"Desafios e resiliência","subtitle":"Pandemia","tags":["Remoto","SLA","Runbooks"],"text":"Operação 100% remota. Priorizamos e-commerce e agendamentos online. SLAs e runbooks estruturados; monitoração básica ativada."},
+  {"side":"left","badge":"mar/2021","title":"Especialização e processos","subtitle":"Qualidade","tags":["CI/CD","Testes","Observabilidade"],"text":"CI/CD, testes e code review viram padrão. Observabilidade (logs, métricas, tracing) e OKRs. Discovery/UX research contínuos."},
+  {"side":"right","badge":"nov/2022","title":"Rebrand para DEVRAD","subtitle":"Posicionamento","tags":["Brand","Design System","Cases"],"text":"Nova identidade e design system. Comunicação baseada em métricas (ex.: +32% conversão, -18% CAC) e estudos de caso públicos."},
+  {"side":"left","badge":"ago/2023","title":"Escala com experiência","subtitle":"DX & A11y","tags":["WCAG","CWV","Chapters"],"text":"Acessibilidade (WCAG AA), performance (Core Web Vitals) e guias de conteúdo. Chapters de FE/BE/Data e rituais de qualidade."},
+  {"side":"right","badge":"mar/2024","title":"Parcerias e impacto","subtitle":"KPIs","tags":["Realtime","KPIs","Fincall"],"text":"Analytics near real-time e contratos com sucesso atrelado a KPIs. Fincall amplia cobertura e reduz TMA/abandonos."},
+  {"side":"left","badge":"mai/2024","title":"Reconhecimento","subtitle":"Prêmios regionais","tags":["Inovação","CX"],"text":"Premiações de inovação e experiência do cliente; talks em eventos de tecnologia, produto e UX; boas práticas em a11y e performance."},
+  {"side":"right","badge":"mai/2025","title":"Premiações nacionais","subtitle":"Sinfor & TOTVS","tags":["Governança","Impacto"],"text":"Prêmio Sinfor de TI e Premiação TOTVS Brasil por governança técnica e impacto mensurável nos clientes."}
+ , {"side":"left","badge":"jun/2025","title":"Futuro em construção","subtitle":"Próximos passos","tags":["IA","Parcerias"],"text":"Expansão de parcerias, laboratório de POCs com IA generativa e evolução contínua do processo com foco em valor e transparência."}
+]
+

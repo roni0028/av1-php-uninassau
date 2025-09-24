@@ -1,0 +1,33 @@
+[
+  {
+    "name": "MS-Software",
+    "bg": "linear-gradient(135deg,#3B82F6,#8B5CF6)",
+    "icon": "<svg viewBox=\"0 0 36 36\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"6\" y=\"6\" width=\"24\" height=\"24\" rx=\"6\" fill=\"url(#g)\"/><defs><linearGradient id=\"g\" x1=\"0\" y1=\"0\" x2=\"1\" y2=\"1\"><stop offset=\"0\" stop-color=\"#3B82F6\"/><stop offset=\"1\" stop-color=\"#8B5CF6\"/></linearGradient></defs><path d=\"M12 14h12M12 18h12M12 22h9\" stroke=\"#fff\" stroke-width=\"2\" stroke-linecap=\"round\"/></svg>"
+  },
+  {
+    "name": "ACME",
+    "bg": "linear-gradient(135deg,#F59E0B,#EF4444)",
+    "icon": "<svg viewBox=\"0 0 36 36\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M18 8 L26 26 L10 26 Z\" fill=\"url(#g)\"/><defs><linearGradient id=\"g\" x1=\"0\" y1=\"0\" x2=\"1\" y2=\"1\"><stop offset=\"0\" stop-color=\"#F59E0B\"/><stop offset=\"1\" stop-color=\"#EF4444\"/></linearGradient></defs></svg>"
+  },
+  {
+    "name": "NOVA",
+    "bg": "linear-gradient(135deg,#A78BFA,#EC4899)",
+    "icon": "<svg viewBox=\"0 0 36 36\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"g\" cx=\"50%\" cy=\"50%\" r=\"70%\"><stop offset=\"0\" stop-color=\"#A78BFA\"/><stop offset=\"1\" stop-color=\"#EC4899\"/></radialGradient></defs><circle cx=\"18\" cy=\"18\" r=\"12\" fill=\"url(#g)\"/></svg>"
+  },
+  {
+    "name": "ORBIT",
+    "bg": "linear-gradient(135deg,#22D3EE,#0EA5E9)",
+    "icon": "<svg viewBox=\"0 0 36 36\" xmlns=\"http://www.w3.org/2000/svg\"><circle cx=\"18\" cy=\"18\" r=\"6\" fill=\"#22D3EE\"/><ellipse cx=\"18\" cy=\"18\" rx=\"12\" ry=\"5\" fill=\"none\" stroke=\"#0EA5E9\" stroke-width=\"2\" transform=\"rotate(-15 18 18)\"/></svg>"
+  },
+  {
+    "name": "PIXEL",
+    "bg": "linear-gradient(135deg,#22C55E,#3B82F6)",
+    "icon": "<svg viewBox=\"0 0 36 36\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"10\" y=\"10\" width=\"6\" height=\"6\" fill=\"#22C55E\"/><rect x=\"18\" y=\"10\" width=\"6\" height=\"6\" fill=\"#F59E0B\"/><rect x=\"10\" y=\"18\" width=\"6\" height=\"6\" fill=\"#3B82F6\"/><rect x=\"18\" y=\"18\" width=\"6\" height=\"6\" fill=\"#EC4899\"/></svg>"
+  },
+  {
+    "name": "ALPHA",
+    "bg": "linear-gradient(135deg,#60A5FA,#0EA5E9)",
+    "icon": "<svg viewBox=\"0 0 36 36\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M18 10 L12 26 L24 26 Z M18 18 L20 26 L16 26 Z\" fill=\"url(#g)\"/><defs><linearGradient id=\"g\" x1=\"0\" y1=\"0\" x2=\"1\" y2=\"1\"><stop offset=\"0\" stop-color=\"#60A5FA\"/><stop offset=\"1\" stop-color=\"#0EA5E9\"/></linearGradient></defs></svg>"
+  }
+]
+

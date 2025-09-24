@@ -1,0 +1,66 @@
+[
+  {
+    "title": "Fincall — MS-Software",
+    "company": "MS-Software",
+    "chips": ["Laravel", "MySQL", "Twilio"],
+    "description": "Solução digital para otimizar atendimentos e orçamentos, com workflow, notificações e relatórios.",
+    "image": "https://images.unsplash.com/photo-1521791055366-0d553872125f?auto=format&fit=crop&w=1600&q=70"
+  },
+  {
+    "title": "ACME Home Store",
+    "company": "ACME",
+    "chips": ["PHP", "Stripe", "Redis"],
+    "description": "Marketplace com catálogo dinâmico, checkout e antifraude, CMS headless.",
+    "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?auto=format&fit=crop&w=1600&q=70"
+  },
+  {
+    "title": "Clínica Vida",
+    "company": "NOVA",
+    "chips": ["Node", "Google", "Twilio"],
+    "description": "Agendamentos com sincronização Google, pagamentos e lembretes por WhatsApp.",
+    "image": "https://images.unsplash.com/photo-1556157381-9713b0b87c81?auto=format&fit=crop&w=1600&q=70"
+  },
+  {
+    "title": "Orbit Analytics",
+    "company": "ORBIT",
+    "chips": ["Kafka", "Grafana", "ETL"],
+    "description": "Eventos em tempo real, KPIs customizados e alertas inteligentes.",
+    "image": "https://images.unsplash.com/photo-1551281043-8fbe986aa29e?auto=format&fit=crop&w=1600&q=70"
+  },
+  {
+    "title": "NOVA Bank",
+    "company": "NOVA",
+    "chips": ["Laravel", "Pix", "PostgreSQL"],
+    "description": "Onboarding digital, carteiras e transferências Pix com auditoria.",
+    "image": "https://images.unsplash.com/photo-1556742400-b5b7c5121f6a?auto=format&fit=crop&w=1600&q=70"
+  },
+  {
+    "title": "Alpha Logistics TMS",
+    "company": "Alpha Logistics",
+    "chips": ["PHP", "Maps", "MQTT"],
+    "description": "Roteirização, rastreio em tempo real e cálculo otimizado de fretes.",
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1600&q=70"
+  },
+  {
+    "title": "Pixel LMS",
+    "company": "Pixel",
+    "chips": ["Node", "Payments", "React"],
+    "description": "Plataforma EAD com trilhas, gamificação e monetização por assinatura.",
+    "image": "https://images.unsplash.com/photo-1516321497487-e288fb19713f?auto=format&fit=crop&w=1600&q=70"
+  },
+  {
+    "title": "Aurora CRM",
+    "company": "Aurora",
+    "chips": ["PHP", "REST", "Elastic"],
+    "description": "CRM com pipeline visual, integrações e buscas rápidas para equipes comerciais.",
+    "image": "https://images.unsplash.com/photo-1551836022-d5d88e9218df?auto=format&fit=crop&w=1600&q=70"
+  },
+  {
+    "title": "ZenFit App",
+    "company": "ZenFit",
+    "chips": ["Node", "GraphQL", "Mobile"],
+    "description": "Aplicativo de treinos e nutrição com planos personalizados e assinaturas.",
+    "image": "https://images.unsplash.com/photo-1529336953121-ad5a0d43d0d3?auto=format&fit=crop&w=1600&q=70"
+  }
+]
+

@@ -1,0 +1,45 @@
+[
+  {
+    "name": "Mariana",
+    "role": "CMO • ACME",
+    "stars": 5,
+    "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?q=80&w=120&auto=format",
+    "text": "Entrega acima do esperado e comunicação transparente do início ao fim. Acompanhamos métricas semanais e conseguimos acelerar o go-live."
+  },
+  {
+    "name": "Rafael",
+    "role": "CEO • NOVA",
+    "stars": 5,
+    "avatar": "https://images.unsplash.com/photo-1502685104226-ee32379fefbe?q=80&w=120&auto=format",
+    "text": "A equipe entendeu o negócio e sugeriu melhorias que aumentaram a conversão. O produto ficou leve, acessível e fácil de iterar."
+  },
+  {
+    "name": "Bianca",
+    "role": "Product Manager • ORBIT",
+    "stars": 4,
+    "avatar": "https://images.unsplash.com/photo-1547425260-76bcadfb4f2c?q=80&w=120&auto=format",
+    "text": "Integrações complexas entregues no prazo, com documentação e monitoramento. Ficou simples acompanhar KPIs no dashboard."
+  },
+  {
+    "name": "João",
+    "role": "Head de Operações • Alpha Logistics",
+    "stars": 5,
+    "avatar": "https://images.unsplash.com/photo-1545996124-0501ebae84d0?q=80&w=120&auto=format",
+    "text": "A roteirização reduziu custo e tempo de entrega. Ganho de eficiência e visibilidade em tempo real."
+  },
+  {
+    "name": "Camila",
+    "role": "Growth • Pixel",
+    "stars": 5,
+    "avatar": "https://images.unsplash.com/photo-1554151228-14d9def656e4?q=80&w=120&auto=format",
+    "text": "Landing pages rápidas com CWV no verde. A/B tests ficaram simples e os experimentos ganharam cadência."
+  },
+  {
+    "name": "Mauricio",
+    "role": "CTO • MS-Software",
+    "stars": 5,
+    "avatar": "https://images.unsplash.com/photo-1527980965255-d3b416303d12?q=80&w=120&auto=format",
+    "text": "O Fincall transformou nosso atendimento: KPIs na mão, automações e integração com canais reduziram o TMA."
+  }
+]
+
